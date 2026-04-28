@@ -1,0 +1,27 @@
+{
+  "name": "MIAUQUIZ - O Desafio Felino",
+  "short_name": "MiauQuiz",
+  "description": "Teste seus conhecimentos sobre o universo felino no MIAUQUIZ — o quiz mais divertido para amantes de gatos.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F0F1A",
+  "theme_color": "#7C3AED",
+  "categories": ["games", "education", "entertainment"],
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192 512x512 any",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512 any",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
